@@ -1,3 +1,7 @@
+# iOS compatability
+
+iOS 6+ confirmed.
+
 # Getting the Springboard object
 
 You might want to declare the interface to get the sharedApplication from the UIApplication interface.
